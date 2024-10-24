@@ -43,7 +43,7 @@ To run this project locally, follow these steps:
    ```bash
    npm start
 
-## Technologies Used
+## Technologies
 - React: JavaScript library for building user interfaces.
 - Radix UI: Accessible UI components for React.
 - Swiper: Carousel component for the thumbnail slider.
