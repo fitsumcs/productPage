@@ -5,6 +5,24 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .swiper-container {
+    width: 100%;
+  }
+
+  .product-info {
+    padding: 10px;
+  }
+
+  .select-container, .add-to-cart-button {
+    width: 90%;
+  }
 }
 
 code {
