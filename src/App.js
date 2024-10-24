@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { ProductPage } from './components/ProductPage';
+import ProductPage from './components/ProductPage';
 
 function App() {
   return (
