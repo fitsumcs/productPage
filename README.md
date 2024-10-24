@@ -7,6 +7,7 @@ A minimalist product page built using React and Radix UI components. This projec
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
+- [Usage](#usage)
 - [Technologies](#technologies)
 
 
@@ -42,6 +43,11 @@ To run this project locally, follow these steps:
 4. **Start the development server:**
    ```bash
    npm start
+
+## Usage
+- Select Colors and Sizes: Click on the available color and size options to update the main product image.
+- Thumbnail Navigation: Use the navigation arrows to scroll through the thumbnail carousel and click on thumbnails to change the main image.
+- Add to Cart: The "Add to Cart" button is disabled until both color and size are selected.
 
 ## Technologies
 - React: JavaScript library for building user interfaces.
